@@ -1,0 +1,7 @@
+Junior Data and Software Engineer
+
+Required skills:
+Python, SQL, Git, Flask, AWS, Pandas, REST API.
+
+Responsibilities:
+Build backend services, validate data, write tests, and collaborate with engineering teams.
