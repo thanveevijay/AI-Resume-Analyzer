@@ -1,0 +1,10 @@
+Alex Morgan
+Computer Science Graduate
+
+Summary
+Entry-level software developer with experience building Python APIs and analyzing data.
+
+Projects
+- Built a Flask REST API backed by SQLite.
+- Used Python, SQL, Pandas, Git and GitHub for data processing and version control.
+- Created a dashboard using Power BI.
