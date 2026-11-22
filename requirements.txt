@@ -1,0 +1,4 @@
+# Core analysis uses the Python standard library.
+# Optional document extraction:
+pypdf>=4.0
+python-docx>=1.1
